@@ -1,26 +1,26 @@
 :root {
-  --fr0-creatorqsf-theme: #00a0c8;
-  --fr0-creatorqsf-theme-rgb: 0, 160, 200;
-  --fr0-creatorqsf-gradient: linear-gradient(to right, var(--fr0-creatorqsf-theme), #00a050);
-  --fr0-creatorqsf-logo: url("https://qs-f.github.io/branding/logo/3.0.0/logo.svg");
+  --0sc-creatorqsf-theme: #00a0c8;
+  --0sc-creatorqsf-theme-rgb: 0, 160, 200;
+  --0sc-creatorqsf-gradient: linear-gradient(to right, var(--0sc-creatorqsf-theme), #00a050);
+  --0sc-creatorqsf-logo: url("https://qs-f.github.io/branding/logo/3.0.0/logo.svg");
 
-  --fr0-ksktkd623-theme: #e95858;
-  --fr0-ksktkd623-theme-rgb: 233, 88, 88;
-  --fr0-ksktkd623-gradient: none;
-  --fr0-ksktkd623-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/ksktkd623.svg");
+  --0sc-ksktkd623-theme: #e95858;
+  --0sc-ksktkd623-theme-rgb: 233, 88, 88;
+  --0sc-ksktkd623-gradient: none;
+  --0sc-ksktkd623-logo: url("https://theme.0scmscratch.com.dr-0x.com/committers/logo/ksktkd623.svg");
 
-  --fr0-fukuo-theme: #108040;
-  --fr0-fukuo-theme-rgb: 16, 128, 64;
-  --fr0-fukuo-gradient: none;
-  --fr0-fukuo-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/FUKUO.svg");
+  --0sc-fukuo-theme: #108040;
+  --0sc-fukuo-theme-rgb: 16, 128, 64;
+  --0sc-fukuo-gradient: none;
+  --0sc-fukuo-logo: url("https://theme.0scmscratch.com.dr-0x.com/committers/logo/FUKUO.svg");
 
-  --fr0-rmnchef_yu-theme: #222;
-  --fr0-rmnchef_yu-theme-rgb: 34, 34, 34;
-  --fr0-rmnchef_yu-gradient: none;
-  --fr0-rmnchef_yu-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/RMNchef.Yu.svg");
+  --0sc-rmnchef_yu-theme: #222;
+  --0sc-rmnchef_yu-theme-rgb: 34, 34, 34;
+  --0sc-rmnchef_yu-gradient: none;
+  --0sc-rmnchef_yu-logo: url("https://theme.0scmscratch.com.dr-0x.com/committers/logo/RMNchef.Yu.svg");
 
-  --fr0-owen_g782-theme: #2c60c4;
-  --fr0-owen_g782-theme-rgb: 44, 96, 196;
-  --fr0-owen_g782-gradient: none;
-  --fr0-owen_g782-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/OwEn_g782.svg");
+  --0sc-owen_g782-theme: #2c60c4;
+  --0sc-owen_g782-theme-rgb: 44, 96, 196;
+  --0sc-owen_g782-gradient: none;
+  --0sc-owen_g782-logo: url("https://theme.0scmscratch.com.dr-0x.com/committers/logo/OwEn_g782.svg");
 }
