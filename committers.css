@@ -4,32 +4,53 @@
   --fr0-creatorqsf-gradient: linear-gradient(to right, var(--fr0-creatorqsf-theme), #00a050);
   --fr0-creatorqsf-logo: url("https://qs-f.github.io/branding/logo/3.0.0/logo.svg");
 
+  --fr0-fumy-theme: #00a0c8;
+  --fr0-fumy-theme-rgb: 0, 160, 200;
+  --fr0-fumy-gradient: linear-gradient(to right, var(--fr0-fumy-theme), #00a050);
+  --fr0-fumy-logo: url("https://qs-f.github.io/branding/logo/3.0.0/logo.svg");
+
   --fr0-ksktkd623-theme: #e95858;
   --fr0-ksktkd623-theme-rgb: 233, 88, 88;
   --fr0-ksktkd623-gradient: none;
   --fr0-ksktkd623-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/ksktkd623.svg");
 
-  /* --fr0-fukuo-theme: #108040; */
+  --fr0-keisuke-theme: #e95858;
+  --fr0-keisuke-theme-rgb: 233, 88, 88;
+  --fr0-keisuke-gradient: none;
+  --fr0-keisuke-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/keisuke.svg");
+
   --fr0-fukuo-theme: #129e82;
-  /* --fr0-fukuo-theme-rgb: 16, 128, 64; */
   --fr0-fukuo-theme-rgb: 18, 158, 130;
   --fr0-fukuo-gradient: none;
   --fr0-fukuo-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/FUKUO.svg");
+
+  --fr0-fukuo-theme: #129e82;
+  --fr0-fukuo-theme-rgb: 18, 158, 130;
+  --fr0-fukuo-gradient: none;
+  --fr0-fukuo-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/fukuo.svg");
 
   --fr0-rmnchef_yu-theme: #222;
   --fr0-rmnchef_yu-theme-rgb: 34, 34, 34;
   --fr0-rmnchef_yu-gradient: none;
   --fr0-rmnchef_yu-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/RMNchef.Yu.svg");
 
+  --fr0-you-theme: #222;
+  --fr0-you-theme-rgb: 34, 34, 34;
+  --fr0-you-gradient: none;
+  --fr0-you-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/you.svg");
+
   --fr0-owen_g782-theme: #2c60c4;
   --fr0-owen_g782-theme-rgb: 44, 96, 196;
   --fr0-owen_g782-gradient: none;
   --fr0-owen_g782-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/OwEn_g782.svg");
 
-  /* --fr0-rnsmzero-theme: #10c880; */
   --fr0-rnsmzero-theme: #30d090;
-  /* --fr0-rnsmzero-theme-rgb: 16, 200, 128; */
   --fr0-rnsmzero-theme-rgb: 48, 208, 144;
   --fr0-rnsmzero-gradient: none;
   --fr0-rnsmzero-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/rnsmzero.svg");
+
+  --fr0-ryosei-theme: #30d090;
+  --fr0-ryosei-theme-rgb: 48, 208, 144;
+  --fr0-ryosei-gradient: none;
+  --fr0-ryosei-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/ryosei.svg");
 }
