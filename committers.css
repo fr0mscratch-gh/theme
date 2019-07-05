@@ -53,4 +53,10 @@
   --fr0-ryosei-theme-rgb: 48, 208, 144;
   --fr0-ryosei-gradient: none;
   --fr0-ryosei-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/ryosei.svg");
+
+  --fr0-jojo-theme: #fe5f00;
+  --fr0-jojo-theme-rgb: 254, 95, 00;
+  --fr0-jojo-gradient: none;
+  --fr0-jojo-logo: url("https://theme.fr0mscratch.com.dr-0x.com/committers/logo/jojo.svg");
+
 }
