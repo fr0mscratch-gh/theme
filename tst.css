@@ -1,0 +1,10 @@
+:root {
+  --fr0-tst-theme: #14b292;
+  --fr0-tst-theme-rgb: 20, 178, 146;
+  --fr0-tst-theme-sub: #42d49a;
+  --fr0-tst-theme-sub-rgb: 66, 212, 154;
+  --fr0-tst-theme-2: #fff;
+  --fr0-tst-theme-2-rgb: 255, 255, 255;
+  --fr0-tst-gradient: linear-gradient(to right, var(--fr0-tst-theme-sub), var(--fr0-tst-theme));
+  --fr0-tst-logo: url("//logo.fr0mscratch.com.dr-0x.com/tshirt/v1/svg/g.svg");
+}
